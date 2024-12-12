@@ -1,0 +1,37 @@
+*{
+    color:white !important;
+}
+
+ul {
+    list-style: none;
+    
+    
+}
+
+.attop{
+    position: absolute;
+    z-index: 1;
+}
+
+.navbar{
+    padding:0px;
+}
+
+.bggreen{
+    background: green;
+
+    img{
+        border: 2px solid orange;
+    
+    }
+    a{
+        font-size: 18px;
+    }
+
+}
+
+.carousel-item {
+    img{
+        height: 600px;
+    }
+}

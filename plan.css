@@ -1,0 +1,30 @@
+* {
+  color: white !important;
+}
+
+ul {
+  list-style: none;
+}
+
+.attop {
+  position: absolute;
+  z-index: 1;
+}
+
+.navbar {
+  padding: 0px;
+}
+
+.bggreen {
+  background: green;
+}
+.bggreen img {
+  border: 2px solid orange;
+}
+.bggreen a {
+  font-size: 18px;
+}
+
+.carousel-item img {
+  height: 600px;
+}/*# sourceMappingURL=plan.css.map */
